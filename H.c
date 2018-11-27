@@ -2,4 +2,6 @@
 void main ()
 {
    print ("hell");
+   
+   print ("yep");
 }
